@@ -1,0 +1,104 @@
+/*
+* Moira Gervay
+* May 19th, 2019
+* Cause Project-Saving the Oceans
+*/
+
+/* The universal selector */
+
+* {
+    margin: 0em;
+    padding: 0em;
+}
+
+/* Body attributes here */
+body {
+    background-image: linear-gradient( to right, #b3ffe0, #ccf5ff);
+    margin: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:  80%;
+} 
+
+/*Logo dimensions in header*/
+header {
+ text-align: center;
+ padding: 3px 3px 3px 3px;
+ border-bottom: 7px solid #004d80;
+ margin: 15px;
+}
+
+/*Demensions of main and footer*/
+main {
+ padding: 3px 3px 3px 3px;
+ border-bottom: 7px solid #004d80;
+ margin: 15px;
+}
+
+footer {
+ padding: 3px 3px 3px 3px;
+ margin: 20px;
+}
+
+/*Image dimensions*/
+#trash1 {
+    float: left;
+    margin: 15px;
+    padding: 10px;
+    border: 7px dotted #004d80;
+    width: 200px;
+    height: 160px;
+}
+
+#turtle1 {
+    margin: 5px;
+    padding: 3px;
+    border: 5px solid #004d80;
+    width: 150px;
+    height: 150px;
+}
+
+#seal1 {
+    margin: 5px;
+    padding: 3px;
+    border: 5px solid #004d80;
+    width: 150px;
+    height: 150px;
+}
+
+#trash2 {
+    margin: 5px;
+    padding: 3px;
+    border: 5px solid #004d80;
+    width: 150px;
+    height: 150px;
+}
+
+#whale1 {
+    margin: 5px;
+    padding: 3px;
+    border: 5px solid #004d80;
+    width: 150px;
+    height: 150px;
+}
+
+#fish1 {
+    margin: 5px;
+    padding: 3px;
+    border: 5px solid #004d80;
+    width: 150px;
+    height: 150px;
+}
+
+/*Fixing the bullets on the list*/
+ul {
+    margin-left: 40px
+}
+
+/*Text changes to headers*/
+h3 {
+    color: darkgreen;
+    font-family: fantasy;
+    font-size: 150%;
+    
+}
+
